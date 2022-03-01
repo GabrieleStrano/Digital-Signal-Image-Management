@@ -7,9 +7,9 @@ Image classification\
 Image retrieval.
 
 
-Laura Nembrini 819059
-Gabriele Strano 866563
-Davide Mancino 847700
+Laura Nembrini 819059\
+Gabriele Strano 866563\
+Davide Mancino 847700\
 
 NOTEBOOK:
 1. Audio classification:
