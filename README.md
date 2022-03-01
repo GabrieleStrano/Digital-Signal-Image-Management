@@ -2,6 +2,6 @@
 Digital Signal Image Management project. Data Science degree.
 
 Task:\
-Audio recognition\
+Speech recognition\
 Image recognition\
 Image retrieval.
